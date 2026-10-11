@@ -1,0 +1,12 @@
+Natural Paper by Mihaela Hinayon
+
+Original pattern: https://github.com/atlemo/SubtlePatterns/blob/master/natural_paper.png
+Pattern page: https://www.transparenttextures.com/natural-paper.html
+
+Pattern license: Creative Commons Attribution-ShareAlike 3.0 Unported.
+https://creativecommons.org/licenses/by-sa/3.0/
+License source: https://github.com/atlemo/SubtlePatterns/blob/master/README.md
+
+Texture pixels are unmodified; source, author, and license metadata have been added.
+Breezeline tiles and blends the texture over its paper colors.
+The CC BY-SA license applies to this texture asset.

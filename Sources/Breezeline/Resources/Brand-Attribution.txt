@@ -1,0 +1,8 @@
+Breezeline's app icon is independent artwork drawn by scripts/make-icon.swift.
+It depicts a cream paper note and a glass-framed landscape photo.
+It does not include Tendedero's original icon artwork.
+
+The paper uses the Natural Paper texture; see Paper-Attribution.txt.
+The small feather on the note is from Phosphor Icons; see Phosphor-LICENSE.txt.
+The menu-bar icon is an original simplified outline of paper and photo hanging
+from a rope with two clips.
